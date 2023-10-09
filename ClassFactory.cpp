@@ -18,7 +18,7 @@ const string & Object::get_class_name() const {
 int Object::get_field_count() {
     return Singleton<ClassFactory>::instance()->get_class_field_count(m_className);
 }
-
+//
 ClassField* Object::get_field(int pos) {
     return Singleton<ClassFactory>::instance()->get_class_field(m_className, pos);
 }
