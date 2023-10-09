@@ -1,0 +1,3 @@
+/home/wsx/Reflect/build/CMakeFiles/rebuild_cache.dir
+/home/wsx/Reflect/build/CMakeFiles/edit_cache.dir
+/home/wsx/Reflect/build/CMakeFiles/Reflect.dir

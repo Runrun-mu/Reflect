@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Reflect.dir/main.cpp.o CMakeFiles/Reflect.dir/ClassFactory.cpp.o  -o Reflect 
